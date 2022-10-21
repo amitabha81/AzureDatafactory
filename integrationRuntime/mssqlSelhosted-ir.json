@@ -1,0 +1,6 @@
+{
+	"name": "mssqlSelhosted-ir",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
